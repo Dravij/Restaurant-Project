@@ -1,0 +1,60 @@
+{
+  "restaurants": [
+    {
+      "name": "KFC restaurant",
+      "email": "kevin@gmail.com",
+      "Address": "Bandra",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "DOMINOS restaurant",
+      "email": "joseph@gmail.com",
+      "Address": "Faridabad sector 16"
+    },
+    {
+      "name": "NAZEER restaurant",
+      "email": "winkins@gmail.com",
+      "Address": "delhi 7",
+      "id": 3
+    },
+    {
+      "name": " Pizza Hut  ",
+      "email": "lavi@gmail.com",
+      "Address": "Gurgaon",
+      "id": 6
+    },
+    {
+      "id": 1,
+      "name": "KFC restaurant",
+      "email": "kevin@gmail.com",
+      "Address": "noida sector 16"
+    },
+    {
+      "id": 2,
+      "name": "DOMINOS restaurant",
+      "email": "joseph@gmail.com",
+      "Address": "Faridabad sector 16"
+    },
+    {
+      "id": 3,
+      "name": "NAZEER restaurant",
+      "email": "winkins@gmail.com",
+      "Address": "delhi 6"
+    },
+    {
+      "name": " Pizza Hut  ",
+      "email": "lavi@gmail.com",
+      "Address": "Gurgaon",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "Harry",
+      "email": "Harry@gmail.com",
+      "password": "123456666666",
+      "id": 1
+    }
+  ]
+}
